@@ -29,5 +29,5 @@ $ python view/sim.py
 
 ### Demo
 
-[![LQR for WIP Demo.](https://i.ytimg.com/vi/K6Hm0M9G-kc/2.jpg)](https://youtu.be/K6Hm0M9G-kc "LQR for WIP Demo.")
+[![LQR for WIP Demo.](http://i3.ytimg.com/vi/K6Hm0M9G-kc/maxresdefault.jpg)](https://youtu.be/K6Hm0M9G-kc "LQR for WIP Demo.")
 
