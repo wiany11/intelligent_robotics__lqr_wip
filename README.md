@@ -28,3 +28,6 @@ $ python view/sim.py
 ```
 
 ### Demo
+
+[![LQR for WIP Demo.](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/K6Hm0M9G-kc "LQR for WIP Demo.")
+
