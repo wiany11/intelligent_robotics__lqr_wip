@@ -3,7 +3,7 @@ Linear-Quadratic Regulator (LQR) for Wheeled Inverted Pendulum (WIP)
 
 ### Introduction
 
-The theory of optimal control is concerned with operating a dynamic system at minimum cost. The case where the system dynamics are described by a set of linear differential equations and the cost is described by a quadratic function is called the LQ problem. One of the main results in the theory is that the solution is provided by the linear–quadratic regulator (LQR), a feedback controller... (Wikipedia)
+The theory of optimal control is concerned with operating a dynamic system at minimum cost. The case where the system dynamics are described by a set of linear differential equations and the cost is described by a quadratic function is called the LQ problem. One of the main results in the theory is that the solution is provided by the linear–quadratic regulator (LQR), a feedback controller... ([Wikipedia](https://en.wikipedia.org/wiki/Linear%E2%80%93quadratic_regulator))
 
 LQR is one of the optimal control techniques making optimal control decisions using the current state of dynamical system. As a way of understanding LQR, wheeled inverted pendulum is used in modeling and simulation.
 
