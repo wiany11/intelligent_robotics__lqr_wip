@@ -1,4 +1,4 @@
-# lqr-ip
+# lqr-wip
 Linear-Quadratic Regulator (LQR) for Wheeled Inverted Pendulum (WIP)
 
 ### Introduction
