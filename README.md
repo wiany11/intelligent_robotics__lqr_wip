@@ -27,7 +27,8 @@ If you have some trouble installing `slycot` you may find useful informatio at [
 $ python view/sim.py
 ```
 
-### Demo
+### Demo.
 
 [![LQR for WIP Demo.](http://i3.ytimg.com/vi/K6Hm0M9G-kc/maxresdefault.jpg)](https://youtu.be/K6Hm0M9G-kc "LQR for WIP Demo.")
 
+If you click the image you can see the demonstration video at YouTube.
