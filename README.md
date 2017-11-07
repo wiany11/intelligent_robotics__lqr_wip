@@ -7,7 +7,7 @@ The theory of optimal control is concerned with operating a dynamic system at mi
 
 LQR is one of the optimal control techniques making optimal control decisions using the current state of dynamical system. As a way of understanding LQR, wheeled inverted pendulum is used in modeling and simulation.
 
-It looks crude, however, it is quite good for beginners like me to understand how LQR really works with the naked eyes.
+I implemented this for term project of the course Intelligent Robotics. It looks crude, however, it may be quite good for beginners like me to understand how LQR really works with the naked eyes.
 
 ### Requirements
 
